@@ -5,6 +5,13 @@ Curso de Java Script, oferecido pelo Curso em vídeo (Gratuito e com certificado
 <hr>
 <h1 align="center"> O que iremos ver nesse curso:</h1><hr>
 
+<h2 align="center">⚒️ Ferramentas e tecnologias utilizadas ⚒️ :</h2>
+
+Google Chrome<br>
+Visual Studio Code<br>
+Node.js<br>
+JavaScript<br>
+
 
 Módulo A: Conhecendo o JavaScript <br>
 
