@@ -9,11 +9,38 @@
         body{
             color: blueviolet;
             background-color: black;
+            font: normal 14pt Arial;
         }
     </style>
     <h1>Iniciando estudos em DOM</h1>
     <p>Aqui vai o resultado</p>
-    <div>Clique em mim</div>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript</p>
+    <div id="msg">Clique em mim</div>
+
+
+    <!--Usando DOM, par aver elementos-->
+    <script>
+        var p1 = window.document.getElementsByTagName('p')[0] //Selecionando por 
+       
+
+        window.document.write(p1.innerHTML)
+
+        window.document.write(window.document.URL)
+        p1.style.color = 'red' //Mudando a cor 
+
+       /* var d = window.document.getElementById('msg') //Selecionando por ID
+        d.style.background = "green"
+        d.innerText = "Estou aguardando..." */
+        
+
+
+        window.document.getElementsByClassName('msg')[0]
+        var e = window.document.querySelector('div#msg')
+        e.style.background = 'white'
+
+ 
+
+    </script>
 
 </head>
 <body>
