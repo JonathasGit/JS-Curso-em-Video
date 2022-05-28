@@ -43,11 +43,11 @@ JavaScript<br>
  <p align="center">👉  Módulo D: Condições em JavaScript :point_left: </p>
  <hr>
  <br>
- ✅ <br>
- ✅ <br>
- ✅ <br>
- ✅ <br>
- ✅ <br>
+ ✅ <br> Aula 11 - Condições (Parte 1)
+ ✅ <br> Aula 12 - Condições (Parte 2)
+ ✅ <br> Exercícios JavaScript (Parte 1)
+ ✅ <br> Exercícios JavaScript (Parte 2)
+ ✅ <br> Exercícios JavaScript (Parte 3)
  
   <hr>
  <p align="center">👉  Módulo E: Repetições em JavaScript :point_left: </p>
