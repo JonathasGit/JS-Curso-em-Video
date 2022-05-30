@@ -27,17 +27,17 @@ JavaScript<br>
  <p align="center">👉  Módulo B: Comandos Básicos do JavaScript :point_left: </p>
  <hr>
  <br>
- ✅ <br>
- ✅ <br>
- ✅ <br>
- ✅ <br>
+ ✅ Aula 5 - Variáveis e Tipos Primitivos<br>
+ ✅ Aula 6 - Tramaento de dados<br>
+ ✅ Aula 7 - Operadores (Parte 1)<br>
+ ✅ Aula 8 - Operadores (Parte 2)<br>
  
   <hr>
  <p align="center">👉  Módulo C: Entendendo o DOM :point_left: </p>
  <hr>
  <br>
- ✅ <br>
- ✅ <br>
+ ✅ Aula 9 - Introdução ao DOM<br>
+ ✅ Aula 10 - Eventos DOM <br>
  
   <hr>
  <p align="center">👉  Módulo D: Condições em JavaScript :point_left: </p>
