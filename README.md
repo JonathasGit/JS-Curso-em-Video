@@ -76,6 +76,6 @@ JavaScript<br>
 
 
 
-🎯 Certificado : 🚧Em andamento.🚧 <br>
+🎯 Certificado : 🚧Em andamento.🚧 Finalizar em 2022 <br>
 
 <p align="center">©️ 2022 - :octocat: JonathasGit </p>
