@@ -47,7 +47,7 @@ JavaScript<br>
  ✅  Aula 12 - Condições (Parte 2)<br>
  ✅  Exercícios JavaScript (Parte 1)<br>
  ✅  Exercícios JavaScript (Parte 2)<br>
- ✅  Exercícios JavaScript (Parte 3)<br>
+ ✅  Exercícios JavaScript (Parte 3) - EM andamento 2/6/22<br>
  
   <hr>
  <p align="center">👉  Módulo E: Repetições em JavaScript :point_left: </p>
